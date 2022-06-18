@@ -3,7 +3,7 @@ Este repositório é destinado a estudos com o Spring Batch
 
 ## Requisitos para rodar o projeto:
 - `Maven`
-  - [Link para instalar GRADLE](https://maven.apache.org/install.html)
+  - [Link para instalar MAVEN](https://maven.apache.org/install.html)
 - `Docker`
   - [Link para instalar DOCKER](https://docs.docker.com/docker-for-windows/install/)
 
